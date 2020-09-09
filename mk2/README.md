@@ -8,5 +8,3 @@ Small compact 2-keys/button for saving your life. Using QMK Framework.
 COLS2ROW Diode Direction
 Caterina / Pro Micro Compatible
 ```
-
-
